@@ -1,2 +1,2 @@
 # JavaProjects
-Spring MVC hands on exercises
+Java Code for different exercises
